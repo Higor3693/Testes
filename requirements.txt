@@ -1,1 +1,2 @@
-requisitos.txt
+frasco==2.3.0
+solicitações==2.31.0
